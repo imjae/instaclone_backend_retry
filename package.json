@@ -1,0 +1,19 @@
+{
+  "name": "instaclone_backend_retry",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjae/instaclone_backend_retry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjae/instaclone_backend_retry/issues"
+  },
+  "homepage": "https://github.com/imjae/instaclone_backend_retry#readme"
+}
