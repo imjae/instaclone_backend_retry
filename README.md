@@ -3,8 +3,8 @@
 Instaclone Backend Retry
 
 ## User:
-- [ ] Create Account
-- [ ] See Profile
+- [x] Create Account
+- [x] See Profile
 - [ ] Login
 - [ ] Edit Profile
 - [ ] Change Avatar (Image Upload)
