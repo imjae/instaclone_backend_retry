@@ -1,3 +1,5 @@
 export default {
-  Querty: {},
+  Query: {
+    seeProfile: (_, args) => console.log('seeProfile'),
+  },
 };

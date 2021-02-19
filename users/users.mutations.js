@@ -1,3 +1,5 @@
 export default {
-  Mutation: {},
+  Mutation: {
+    createAccount: (_, args) => console.log('createAccount mutation!'),
+  },
 };
